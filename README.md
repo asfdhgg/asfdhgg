@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**asfdhgg/asfdhgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+    <p float="left">
+        <samp>
+            what i know.
+            <br>
+            &nbsp;languages: python, java;
+            <br>
+            <br>
+        </samp>
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=asfdhgg&style=flat-square&00&label=views">
+    </p>
+</p>
