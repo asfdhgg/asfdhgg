@@ -10,6 +10,7 @@
         </samp>
         <samp>
             <a href="https://www.instagram.com/catwithfanggs/">Instagram</a>
+            <a href="https://www.catwithfeathers.lol">Website</a>
         </samp>
         <br>
         <img src="https://komarev.com/ghpvc/?username=asfdhgg&style=flat-square&00&label=views">
