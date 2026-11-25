@@ -11,7 +11,7 @@
         <samp>
             <a href="https://www.instagram.com/catwithfanggs/">Instagram</a>
             <a href="https://catwithfeathers.lol/">Website</a>
-            <p>looking for commissions maybe<a href="mailto:admin@catwithfeathers.lol"></a>
+            <p>looking for commissions maybe<a href="mailto:admin@catwithfeathers.lol">contact me here</a>
         </samp>
         <br>
         <img src="https://komarev.com/ghpvc/?username=asfdhgg&style=flat-square&00&label=views">
