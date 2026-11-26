@@ -12,7 +12,6 @@
         <samp>
             <a href="https://www.instagram.com/catwithfanggs/">Instagram</a>
             <a href="https://catwithfeathers.lol/">Website</a>
-            <p>looking for commissions maybe <a href="mailto:admin@catwithfeathers.lol">contact me here</a>
         </samp>
         <br>
         <br>
